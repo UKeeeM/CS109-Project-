@@ -2,7 +2,7 @@
 title: HBS n HC
 email: gscoon@mba2016.hbs.edu
 description: CS109 2015 final project submission.
-baseurl: "CS109-Project-" # the subpath of your site, e.g. /blog/
+baseurl: "/CS109-Project-/" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Build settings
