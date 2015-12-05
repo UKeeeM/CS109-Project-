@@ -7,4 +7,4 @@ permalink: /kim/
 
 Here is an image of Kim Dot Com
 
-![alt "Kim Dot Com"](/images/kim.jpg)
+![alt "Kim Dot Com"](../images/kim.jpg)
