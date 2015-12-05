@@ -2,7 +2,7 @@
 layout: page
 title: About
 nav-label: Team
-permalink: /about/
+permalink: about/
 ---
 
-This is the about page
+The Goal of our project is to.....
