@@ -5,4 +5,4 @@ nav-label: Team
 permalink: /about/
 ---
 
-This is the about page
+The Goal of our project is to.....
