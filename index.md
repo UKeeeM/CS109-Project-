@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CS109 Final
-permalink: /
+permalink: 
 ---
 
 This is the home page
