@@ -4,7 +4,9 @@ title: About
 nav-label: Team
 permalink: about/
 ---
-![alt "Image found on: https://www.reddit.com/about/alien/"](../images/reddit-logo.png)
+![alt "Image found on reddit.com"](../images/reddit-logo.png)
+
+
 
 
 
