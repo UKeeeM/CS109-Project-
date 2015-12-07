@@ -6,7 +6,8 @@ permalink:
 
 #Find Your Expert#
 
-![alt "reddit"](../images/reddit-logo.png)
+![alt "Image found on reddit.com"](../images/reddit-logo.png)
+Image credit: https://www.reddit.com/about/alien/
 
 Please watch the following video for a brief walkthrough of our project. Use the navigation above for a more detailed description of our work.
 
