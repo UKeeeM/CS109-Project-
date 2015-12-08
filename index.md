@@ -4,7 +4,7 @@ title: CS109 Final
 permalink: 
 ---
 
-<h1>Find Your Expert</h1>
+#Find Your Expert#
 
 ![alt "Image found on reddit.com"](../images/reddit-logo.png)
 Image credit: https://www.reddit.com/about/alien/
