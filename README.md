@@ -22,7 +22,7 @@ Our exploratory data analysis shows that there is great variation between the re
 * Prediction Strategy
 <h3>Website</h3>
 
-Our website displays our final results as well as initial motivation and question. It also includes a walkthrough of our project in video and contains many visualizations displaying our results. Go <a gref="http://ukeeem.github.io/CS109-Project-//">here</a> to visit our website.
+Our website displays our final results as well as initial motivation and question. It also includes a walkthrough of our project in video and contains many visualizations displaying our results. Go <a href="http://ukeeem.github.io/CS109-Project-//">here</a> to visit our website.
 * Extension
 
 
