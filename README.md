@@ -14,7 +14,9 @@ We first began our project by collecting data first from the reddit website, and
 * Training Strategy
 * Collection Factory
 * Feature Factory
-* EDA 
+<h3>EDA</h3>
+
+Our exploratory data analysis shows that there is great variation between the reddit comments and the online articles. In this part of our project we looked through both the dataset of the reddit comments and the online articles. We cleaned up the dataset and added some additional columns as well as run some preliminary visualizations on them. Ultimately we selected features that we thought would be interesting to look at and applied them to the dataset using the code from the feature factory and the collection factory. Our analysis of the feature implemented dataset tells us that similarities between reddit comments and online articles tend to be on the lower end. A more detailed analysis of our EDA can be seen <a href="https://github.com/UKeeeM/CS109-Project-/blob/master/EDA.ipynb">here</a>
 
 <h2>Prediction</h2>
 * Prediction Strategy
