@@ -44,12 +44,12 @@ Here we looked at how strong the similarity was between key words of reddit comm
 
 <div>
   <h3>Overall reddit Comments</h3>
-  <img img width="564" alt="commenthist" src="../images/reddit.png">
+  <img img width="364" alt="commenthist" src="../images/reddit.png">
 </div>
 
 <div>
   <h3>reddit Comments with 100 Up Votes or More</h3>
-  <img img width="564" alt="articlehist" src="../images/reddit100.png">
+  <img img width="364" alt="articlehist" src="../images/reddit100.png">
 </div>
 
 
