@@ -11,4 +11,5 @@ permalink: /visuals/
 <h2>Article Comment Upvotes</h2>
 <img style="float: left;" img width="547" alt="articlehist" src="https://cloud.githubusercontent.com/assets/14127328/11675183/ae49c2c0-9df5-11e5-9184-fff5553ceba0.png">
 
+As we see here, the reddit comment upvotes are very much skewed to the right with most of the comments recieving 
 
