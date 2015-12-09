@@ -52,3 +52,39 @@ Here we see a comparison of word clouds between reddit comments overall and the 
 </tr>
 </table>
 </div>
+<div>
+<tr>
+<td>LIBERAL<img img width="264" alt="liberal" src="../images/Liberal wordcloud.png"></td><td>NBA<img img width="264" alt="nba" src="../images/nba wordcloud.png"></td><td>NEWS<img img width="264" alt="news" src="../images/news wordcloud.png"></td>
+</tr>
+</table>
+</div>
+<div>
+<tr>
+<td>NFL<img img width="264" alt="nfl" src="../images/nfl wordcloud.png"></td><td>NOT THE ONION<img img width="264" alt="nottheonion" src="../images/nottheonion wordcloud.png"></td><td>POLITICS<img img width="264" alt="politics" src="../images/politics wordcloud.png"></td>
+</tr>
+</table>
+</div>
+<div>
+<tr>
+<td>PROGRAMMING<img img width="264" alt="programming" src="../images/programming wordcloud.png"></td><td>SCIENCE<img img width="264" alt="science" src="../images/science wordcloud.png"></td><td>SOCCER<img img width="264" alt="soccer" src="../images/soccer wordcloud.png"></td>
+</tr>
+</table>
+</div>
+<div>
+<tr>
+<td>SPACE<img img width="264" alt="space" src="../images/space wordcloud.png"></td><td>TECHNOLOGY<img img width="264" alt="technology" src="../images/technology wordcloud.png"></td><td>TODAY I LEARNED<img img width="264" alt="todayilearned" src="../images/todayilearnedwordcloud.png"></td>
+</tr>
+</table>
+</div>
+<div>
+<tr>
+<td>UK POLITICS<img img width="264" alt="ukpolitics" src="../images/ukpolitics wordcloud.png"></td><td>UPLIFITING NEWS<img img width="264" alt="upliftingnews" src="../images/UpliftingNews wordcloud.png"></td><td>US POLITICS<img img width="264" alt="uspolitics" src="../images/uspolitics wordcloud.png"></td>
+</tr>
+</table>
+</div>
+<div>
+<tr>
+<td>WORLD NEWS<img img width="264" alt="worldnews" src="../images/worldnews wordcloud.png"></td>
+</tr>
+</table>
+</div>
