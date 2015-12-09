@@ -8,7 +8,7 @@ permalink: /visuals/
 ##EDA Visuals
 <table>
 <tr>
-<td><h3>reddit Comment Up Votes</h3><img alt="commenthist" src="../images/commenthist.png"></td><td><h3>Article Comment Up Votes</h3><img alt="articlehist" src="../images/articlehist.png"></td>
+<td><h3>reddit Comment Up Votes</h3><img img width="364" alt="commenthist" src="../images/commenthist.png"></td><td><h3>Article Comment Up Votes</h3><img img width="364" alt="articlehist" src="../images/articlehist.png"></td>
 </tr>
 </table>
 
@@ -16,7 +16,7 @@ As we see here, the reddit comment up votes are very much skewed to the right wi
 
 <table>
 <tr>
-<td><h3>Subreddits</h3><img alt="commentbar" src="../images/commentbar.png"></td><td><h3>Article Categories</h3><img alt="articlebar" src="../images/articlebar.png"></td>
+<td><h3>Subreddits</h3><img img width="364" alt="commentbar" src="../images/commentbar.png"></td><td><h3>Article Categories</h3><img img width="364" alt="articlebar" src="../images/articlebar.png"></td>
 </tr>
 </table>
 
