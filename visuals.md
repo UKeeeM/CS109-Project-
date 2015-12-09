@@ -44,10 +44,10 @@ Here we looked at how strong the similarity was between key words of reddit comm
 
 <div>
   <h3>Overall reddit Comments</h3>
-  <img img width="564" ![reddit](https://cloud.githubusercontent.com/assets/14127328/11699069/4bb62f2c-9e90-11e5-8c09-b1d4a381dfdf.png)>
+  ![reddit](https://cloud.githubusercontent.com/assets/14127328/11699069/4bb62f2c-9e90-11e5-8c09-b1d4a381dfdf.png)
 </div>
 
 <div>
   <h3>reddit Comments with 100 Up Votes or More</h3>
-  <img img width="564" ![reddit100](https://cloud.githubusercontent.com/assets/14127328/11699125/abebae80-9e90-11e5-850f-cc1f69d79ff9.png)>
+  ![reddit100](https://cloud.githubusercontent.com/assets/14127328/11699125/abebae80-9e90-11e5-850f-cc1f69d79ff9.png)
 </div>
