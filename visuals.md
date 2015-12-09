@@ -8,17 +8,17 @@ permalink: /visuals/
 ##EDA Visuals
 
 <div>
-  <h3>reddit Comment Upvotes</h3>
+  <h3>reddit Comment Up Votes</h3>
   <img img width="564" alt="commenthist" src="../images/commenthist.png">
 </div>
 
 <div>
-  <h3>Article Comment Upvotes</h3>
+  <h3>Article Comment Up Votes</h3>
   <img img width="564" alt="articlehist" src="../images/articlehist.png">
 </div>
 
 
-As we see here, the reddit comment upvotes are very much skewed to the right with most of the comments recieving few up votes. On the other hand, the article comments are a lot lest skewed than the reddit comments, and there are several peaks in the data that can be seen in the histogram. This suggests that the reddit comments and article comments are distributed quite differently when it comes to upvotes.
+As we see here, the reddit comment up votes are very much skewed to the right with most of the comments recieving few up votes. On the other hand, the article comments are a lot lest skewed than the reddit comments, and there are several peaks in the data that can be seen in the histogram. This suggests that the reddit comments and article comments are distributed quite differently when it comes to up votes.
 
 <div>
   <h3>Subreddits</h3>
@@ -39,3 +39,15 @@ Here we see that the subreddits from the reddit comments have similar categories
 </div>
 
 Here we looked at how strong the similarity was between key words of reddit comments and article comments. It can be seen from the histogram that the similarity score is not very high with the majority concentrated on the lower end. This suggests that it may be difficult to rely on key word similarity for our model. However, there are some similarities that fall within the 0.4 to 0.6 range, and these may be the data points that we would want to analyze further in our predition model.
+
+##Word Clouds
+
+<div>
+  <h3>Overall reddit Comments</h3>
+  <img img width="564" ![reddit](https://cloud.githubusercontent.com/assets/14127328/11699069/4bb62f2c-9e90-11e5-8c09-b1d4a381dfdf.png)>
+</div>
+
+<div>
+  <h3>reddit Comments with 100 Up Votes or More</h3>
+  <img img width="564" ![reddit100](https://cloud.githubusercontent.com/assets/14127328/11699125/abebae80-9e90-11e5-850f-cc1f69d79ff9.png)>
+</div>
