@@ -40,11 +40,15 @@ Here we looked at how strong the similarity was between key words of reddit comm
 
 Here we see a comparison of word clouds between reddit comments overall and the reddit comments who recieved an up vote of 100 or more. Between the two word clouds we can see that common words that show up in overall reddit comments do not differ much from the comments that recieved higher up votes. Thus suggesting that highly rated comments share similar key words as the overall comments.
 
+<div>
 <table>
 <tr>
 <td>CANADA POLITICS<img img width="264" alt="canadapolitics" src="../images/CanadaPolitics wordcloud.png"></td><td>CONSERVATIVE<img img width="264" alt="conservative" src="../images/Conservative wordcloud.png"></td><td>DOCUMENTARIES<img img width="264" alt="documentaries" src="../images/Documentaries wordcloud.png"></td>
 </tr>
+</div>
+<div>
 <tr>
 <td>FOOD<img img width="264" alt="food" src="../images/food wordcloud.png"></td><td>GADGETS<img img width="264" alt="gadgets" src="../images/gadgets wordcloud.png"></td><td>INTERNET IS BEAUTIFUL<img img width="264" alt="internetisbeautiful" src="../images/InternetIsBeautiful wordcloud.png"></td>
 </tr>
 </table>
+</div>
