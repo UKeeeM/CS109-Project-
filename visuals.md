@@ -42,12 +42,14 @@ Here we looked at how strong the similarity was between key words of reddit comm
 
 ##Word Clouds
 
+<div>
+  <h3>Overall reddit Comments</h3>
+  <img img width="564" alt="commenthist" src="../images/reddit.png">
+</div>
 
-<h3>Overall reddit Comments</h3>
-![reddit](https://cloud.githubusercontent.com/assets/14127328/11699168/f004bc24-9e90-11e5-9aee-2d439f2ba073.png)
+<div>
+  <h3>reddit Comments with 100 Up Votes or More</h3>
+  <img img width="564" alt="articlehist" src="../images/reddit100.png">
+</div>
 
-
-
-<h3>reddit Comments with 100 Up Votes or More</h3>
-![reddit100](https://cloud.githubusercontent.com/assets/14127328/11699125/abebae80-9e90-11e5-850f-cc1f69d79ff9.png)
 
