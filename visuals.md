@@ -44,7 +44,7 @@ Here we looked at how strong the similarity was between key words of reddit comm
 
 <table>
 <tr>
-<td><h3>Overall reddit Comments</h3><img alt="commenthist" src="../images/reddit.png"></td><td><h3>reddit Comments with 100 Up Votes or More</h3><img alt="articlehist" src="../images/reddit100.png"></td>
+<td><h3>Overall reddit Comments</h3><img alt="commenthist" src="../images/reddit.png"></td><td><h3>reddit Comments: 100 Up Votes & Above</h3><img alt="articlehist" src="../images/reddit100.png"></td>
 </tr>
 </table>
 
