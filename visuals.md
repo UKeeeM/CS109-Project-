@@ -44,7 +44,7 @@ Here we looked at how strong the similarity was between key words of reddit comm
 
 <div>
   <h3>Overall reddit Comments</h3>
-  ![reddit](https://cloud.githubusercontent.com/assets/14127328/11699069/4bb62f2c-9e90-11e5-8c09-b1d4a381dfdf.png)
+  ![reddit](https://cloud.githubusercontent.com/assets/14127328/11699168/f004bc24-9e90-11e5-9aee-2d439f2ba073.png)
 </div>
 
 <div>
