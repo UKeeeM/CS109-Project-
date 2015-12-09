@@ -5,7 +5,7 @@ nav-label: Visuals
 permalink: /visuals/
 ---
 
-<h1>EDA Visuals</h1>
+##EDA Visuals##
 
 <div>
   <h3>reddit Comment Upvotes</h3>
