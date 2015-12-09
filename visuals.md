@@ -40,6 +40,8 @@ Here we looked at how strong the similarity was between key words of reddit comm
 
 Here we see a comparison of word clouds between reddit comments overall and the reddit comments who recieved an up vote of 100 or more. Between the two word clouds we can see that common words that show up in overall reddit comments do not differ much from the comments that recieved higher up votes. Thus suggesting that highly rated comments share similar key words as the overall comments.
 
+<h3>Subreddit Categories</h3>
+
 <div>
 <table>
 <tr>
@@ -88,3 +90,5 @@ Here we see a comparison of word clouds between reddit comments overall and the 
 </tr>
 </table>
 </div>
+
+Here we see a variety of different word clouds for each of the subreddit cateogires that we studied. We used these word clouds to visualize the key words used in each of the subreddits. Key words played an important role in our prediction model, as we used the key words to predict the different subreddit topics.
