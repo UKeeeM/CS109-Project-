@@ -9,6 +9,6 @@ permalink: /visuals/
 <img style="float: right;" img width="564" alt="commenthist" src="https://cloud.githubusercontent.com/assets/14127328/11674647/d9766aa2-9df0-11e5-9dcd-f2b329fe74ec.png">
 
 <h2>Article Comment Upvotes</h2>
-<img style="float: left;" img width="747" alt="articlehist" src="https://cloud.githubusercontent.com/assets/14127328/11675183/ae49c2c0-9df5-11e5-9184-fff5553ceba0.png">
+<img style="float: left;" img width="547" alt="articlehist" src="https://cloud.githubusercontent.com/assets/14127328/11675183/ae49c2c0-9df5-11e5-9184-fff5553ceba0.png">
 
 
