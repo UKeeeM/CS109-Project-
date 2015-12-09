@@ -42,9 +42,9 @@ Here we see a comparison of word clouds between reddit comments overall and the 
 
 <table>
 <tr>
-<td>CANADA POLITICS<img alt="canadapolitics" src="../images/CanadaPolitics wordcloud.png"></td><td>CONSERVATIVE<img alt="conservative" src="../images/conservative wordcloud.png"></td><td>DOCUMENTARIES<img alt="documentaries" src="../images/Documentaries wordcloud.png"></td>
+<td>CANADA POLITICS<img img width="364" alt="canadapolitics" src="../images/CanadaPolitics wordcloud.png"></td><td>CONSERVATIVE<img img width="364" alt="conservative" src="../images/conservative wordcloud.png"></td><td>DOCUMENTARIES<img img width="364" alt="documentaries" src="../images/Documentaries wordcloud.png"></td>
 </tr>
 <tr>
-<td>FOOD<img alt="food" src="../images/food wordcloud.png"></td><td>GADGETS<img alt="gadgets" src="../images/gadgets wordcloud.png"></td><td>Internet is Beautiful<img alt="internetisbeautiful" src="../images/InternetIsBeautiful wordcloud.png"></td>
+<td>FOOD<img img width="364" alt="food" src="../images/food wordcloud.png"></td><td>GADGETS<img img width="364" alt="gadgets" src="../images/gadgets wordcloud.png"></td><td>INTERNET IS BEAUTIFUL<img img width="364" alt="internetisbeautiful" src="../images/InternetIsBeautiful wordcloud.png"></td>
 </tr>
 </table>
