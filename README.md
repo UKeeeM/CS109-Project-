@@ -16,7 +16,7 @@ Install instructions
 
 4. Click "Load unpacked extension"
 
-5. Go to the cloned repo directory and select the "extension" folder within in
+5. Navigate to the cloned repo directory and select the "extension" folder within it
 
 6. Visit a news article and click the expert icon(edited)
 
