@@ -58,14 +58,12 @@ Here we see a comparison of word clouds between reddit comments overall and the 
 </table>
 </div>
 <div>
-<table>
 <tr>
 <td>DOCUMENTARIES<img img width="264" alt="documentaries" src="../images/Documentaries wordcloud.png"></td><td>FOOD<img img width="264" alt="food" src="../images/food wordcloud.png"></td>
 </tr>
 </table>
 </div>
 <div>
-<table>
 <tr>
 <td>GADGETS<img img width="264" alt="gadgets" src="../images/gadgets wordcloud.png"></td><td>INTERNET IS BEAUTIFUL<img img width="264" alt="internetisbeautiful" src="../images/InternetIsBeautiful wordcloud.png"></td>
 </tr>
@@ -75,6 +73,7 @@ Here we see a comparison of word clouds between reddit comments overall and the 
 <tr>
 <td>LIBERAL<img img width="264" alt="liberal" src="../images/Liberal wordcloud.png"></td><td>NBA<img img width="264" alt="nba" src="../images/nba wordcloud.png"></td>
 </tr>
+</table>
 </div>
 <div>
 <tr>
