@@ -9,24 +9,24 @@ permalink: /visuals/
 
 <div>
   <h3>reddit Comment Up Votes</h3>
-  <img img width="464" alt="commenthist" src="../images/commenthist.png">
+  <img img width="564" alt="commenthist" src="../images/commenthist.png">
 </div>
 
 <div>
   <h3>Article Comment Up Votes</h3>
-  <img img width="464" alt="articlehist" src="../images/articlehist.png">
+  <img img width="564" alt="articlehist" src="../images/articlehist.png">
 </div>
 
 As we see here, the reddit comment up votes are very much skewed to the right with most of the comments recieving few up votes. On the other hand, the article comments are a lot lest skewed than the reddit comments, and there are several peaks in the data that can be seen in the histogram. This suggests that the reddit comments and article comments are distributed quite differently when it comes to up votes.
 
 <div>
   <h3>Subreddits</h3>
-  <img img width="464" alt="commentbar" src="../images/commentbar.png">
+  <img img width="564" alt="commentbar" src="../images/commentbar.png">
 </div>
 
 <div>
   <h3>Article Categories</h3>
-  <img img width="464" alt="articlebar" src="../images/articlebar.png">
+  <img img width="564" alt="articlebar" src="../images/articlebar.png">
 </div>
 
 Here we see that the subreddits from the reddit comments have similar categories as the ones found in the articles. The rankings are slightly different with news being the highest category from the reddit comments and science being the highest category from the article comments. However, in general the two data set show similar subreddits.
@@ -55,16 +55,21 @@ Here we see a comparison of word clouds between reddit comments overall and the 
 <tr>
 <td>CANADA POLITICS<img img width="264" alt="canadapolitics" src="../images/CanadaPolitics wordcloud.png"></td><td>CONSERVATIVE<img img width="264" alt="conservative" src="../images/Conservative wordcloud.png"></td>
 </tr>
+</table>
 </div>
 <div>
+<table>
 <tr>
 <td>DOCUMENTARIES<img img width="264" alt="documentaries" src="../images/Documentaries wordcloud.png"></td><td>FOOD<img img width="264" alt="food" src="../images/food wordcloud.png"></td>
 </tr>
+</table>
 </div>
 <div>
+<table>
 <tr>
 <td>GADGETS<img img width="264" alt="gadgets" src="../images/gadgets wordcloud.png"></td><td>INTERNET IS BEAUTIFUL<img img width="264" alt="internetisbeautiful" src="../images/InternetIsBeautiful wordcloud.png"></td>
 </tr>
+</table>
 </div>
 <div>
 <tr>
