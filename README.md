@@ -8,7 +8,7 @@ The extension is built using Javascript, CSS, and HTML
 
 1. Clone this repo and switch the the "expert-app" branch
 
-2. Open up chrome and paste chrome://extensions/ in the navigation bar
+2. Open up chrome and type "chrome://extensions/" in the navigation bar
 
 3. Make sure developer mode is checked
 
