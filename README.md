@@ -1,5 +1,3 @@
-#CS109 Final Project
-
 # Extension
 
 The goal of the Chrome Extension is to provide a user interface for individuals surfing the web to find experts and relevant information on the content that the user is viewing.
