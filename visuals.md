@@ -53,12 +53,12 @@ Here we see a comparison of word clouds between reddit comments overall and the 
 <div>
 <table>
 <tr>
-<td>CANADA POLITICS<img img width="264" alt="canadapolitics" src="../images/CanadaPolitics wordcloud.png"></td><td>CONSERVATIVE<img img width="264" alt="conservative" src="../images/Conservative wordcloud.png"></td>
+<td>CANADA POLITICS<img alt="canadapolitics" src="../images/CanadaPolitics wordcloud.png"></td><td>CONSERVATIVE<img alt="conservative" src="../images/Conservative wordcloud.png"></td>
 </tr>
 </div>
 <div>
 <tr>
-<td>DOCUMENTARIES<img img width="264" alt="documentaries" src="../images/Documentaries wordcloud.png"></td><td>FOOD<img img width="264" alt="food" src="../images/food wordcloud.png"></td>
+<td>DOCUMENTARIES<img alt="documentaries" src="../images/Documentaries wordcloud.png"></td><td>FOOD<img alt="food" src="../images/food wordcloud.png"></td>
 </tr>
 </div>
 <div>
