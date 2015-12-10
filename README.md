@@ -8,7 +8,7 @@ Many of us are frequent reddit users, and so it occured to us that often times w
 The overaching stategy of our application cosnsists of two phases, a prediction phase and a training phase. The trainign phase results in a paramterized model to predict top comments. The prediction phase uses this model to predict the top comments for a praticular article.
 <br>
 <br>
-The follwoing training strategy summarizes the work completed in the <a href="https://github.com/UKeeeM/CS109-Project-/blob/master/Collection%20Factory.ipynb">**Collection Factory**</a>, the <a href="https://github.com/UKeeeM/CS109-Project-/blob/master/Feature%20Factory.ipynb">**Feature Factory**</a>, the <a href="https://github.com/UKeeeM/CS109-Project-/blob/master/EDA.ipynb">**Exploratory Data Analysis** </a> and the Model Factory.
+The follwoing training strategy summarizes the work completed in the <a href="https://github.com/UKeeeM/CS109-Project-/blob/master/Collection%20Factory.ipynb">**Collection Factory**</a>, the <a href="https://github.com/UKeeeM/CS109-Project-/blob/master/Feature%20Factory.ipynb">**Feature Factory**</a>, the <a href="https://github.com/UKeeeM/CS109-Project-/blob/master/EDA.ipynb">**Exploratory Data Analysis** </a> and the <a href="https://github.com/UKeeeM/CS109-Project-/blob/master/model.ipynb">**Model Factory** </a>.
 
 <img src="TrainingStrat.png">
 <br>
@@ -20,9 +20,8 @@ The feature extraction, EDA, modelling cycle is a continuos loop. The best model
 <h3>Collection Factory</h3>
 The <a href="https://github.com/UKeeeM/CS109-Project-/blob/master/Collection%20Factory.ipynb">**Collection Factory**</a> is the mechanism for collecting all of the data requried for the application. The factory makes use of the reddit API to identify a broad range of articles similar to those we are expcting to use for prediction. The factory collects the comments related to each praticular article and then collects the article itself. 
 
-
 <h3>Feature Factory</h3>
-
+The <a href="https://github.com/UKeeeM/CS109-Project-/blob/master/Feature%20Factory.ipynb">**Feature Factory**</a> is the mechanism for extracting usefull attributes from the commments, the articles and the relationship between them. Some of the fetures were created at collection time to reduce the amount of data that would be stored; but we expand on those features here. The premise of our application is that the top comments, will be sytanctically similar to the articles they are describing. For example, comments and users that use the same language of the article may increase the overall score of that article. The feature factory produces a large variety of these comparsions and we use EDA to determine the ones with the most predictive power.
 
 <h3>Exploratory Data Analysis</h3>
 Our exploratory data analysis shows that there is great variation between the reddit comments and the online articles. In this part of our project we looked through both the dataset of the reddit comments and the online articles. We cleaned up the dataset and added some additional columns as well as run some preliminary visualizations on them. Ultimately we selected features that we thought would be interesting to look at and applied them to the dataset using the code from the <a href="https://github.com/UKeeeM/CS109-Project-/blob/master/Feature%20Factory.ipynb">feature factory</a> and the <a href="https://github.com/UKeeeM/CS109-Project-/blob/master/Collection%20Factory.ipynb">collection factory</a>. Our analysis of the feature implemented dataset tells us that similarities between reddit comments and online articles tend to be on the lower end. A more detailed analysis of our EDA can be seen <a href="https://github.com/UKeeeM/CS109-Project-/blob/master/EDA.ipynb">here</a>.
@@ -36,7 +35,15 @@ The following process identifies our prediction strategy. This process that occu
 
 <img src="PredictionStrat.png">
 <br>
-The entry to the above process is our front end website or chrome extension. This component accepts the URL of the interest article and identfies the keywords of the article. The keywords are passed to the **Collection Fatory** which uses the keywords to find similar articles that exist in the reddit verse. The **Collection Factory** scrapes the similar articles and their respective comment threads. This process ensures that we comments generated from articles similar to the interest article. The articles and comments are then passed to the **Feature Factory**. The differecne being we want to look at the relationships between the comments and the interest article opposed to the article they are actually discussing. The last step is to pass the completed features to the **Prediction Factory**. The **Prediction Factory**  uses the features in a parameterized model to identify the top comments and return them to the user.
+The entry to the above process is our front end website or chrome extension. This component accepts the URL of the interest article and identfies the keywords of the article. The keywords are passed to the **Collection Fatory** which uses the keywords to find similar articles that exist in the reddit verse. The **Collection Factory** scrapes the similar articles and their respective comment threads. This process ensures that we comments generated from articles similar to the interest article. The articles and comments are then passed to the **Feature Factory**. The differecne being we want to look at the relationships between the comments and the interest article opposed to the article they are actually discussing. 
+<br>
+<br>
+The collection and feature extraction steps of the Prediction startegy can be summarized in the <a href="https://github.com/UKeeeM/CS109-Project-/blob/master/Prediction%20Data%20Factory.ipynb">**Prediction Data Factory**</a>
+<br>
+<br>
+The last step is to pass the completed features to the **Model**. The **Model**  uses the features in a to identify the top comments and return them to the user.
+<br>
+<br>
 
 
 <h2>Website</h2>
