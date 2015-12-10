@@ -1,0 +1,147 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+#expert_menu
+{
+    width:440px;
+    height:100%;
+    background-color:#fff;
+    position:fixed;
+    right:0;
+    top:0;
+    box-shadow: -4px 0px 5px 0px rgba(0,0,0,0.3);
+    z-index: 9999999999999;
+    padding:20px 10px 10px;
+    text-align: left;
+    border:#FBDCB8 SOLID 5PX;
+}
+
+#expert_menu, #expert_menu *
+{
+    box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    font-family: "Open Sans";
+}
+
+#expert_menu #expert_menu_logo
+{
+    background-image:url('chrome-extension://__MSG_@@extension_id__/images/menu-logo-small.png');
+    background-repeat: no-repeat;
+    width:108px;
+    height:27px;
+    margin:0 auto;
+    padding:0 0 10px;
+    border:#ccc solid;
+    border-width:0 0 1px;
+}
+
+#expert_menu_x
+{
+    position:absolute;
+    right:10px;
+    top:10px;
+    cursor: pointer;
+    display: block;
+    width:12px;
+    height:11px;
+    background-image:url('chrome-extension://__MSG_@@extension_id__/images/x.png');
+}
+
+#expert_menu #expert_menu_loader
+{
+    background-image:url('chrome-extension://__MSG_@@extension_id__/images/loader-balls.gif');
+    width:72px;
+    height:72px;
+    position:absolute;
+    left:50%;
+    top:200px;
+    margin:-36px 0 0 -36px;
+}
+
+#expert_menu #expert_menu_inner
+{
+    display: none;
+}
+
+#expert_menu .expert_submenu
+{
+    padding:10px 0 0;
+}
+
+#expert_menu .expert_sub_title
+{
+    font-weight: bold;
+    font-size:14px;
+    color:#333;
+    margin:0 0 10px;
+
+}
+
+#expert_menu .expert_keyword
+{
+    width:136px;
+    margin:0 5px 10px 5px;
+    padding:3px 0;
+    text-align:center;
+    color:#222;
+    font-size:13px;
+    background-color: #efefef;
+    display:inline-block;
+}
+
+#expert_reddit_container_inner
+{
+    max-height:200px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+#expert_menu .expert_reddit_row
+{
+    padding:5px 0;
+    font-size:12px;
+}
+
+#expert_menu .expert_reddit_user_a
+{
+    font-size:13px;
+    color:#255f6d;
+    font-weight: bold;
+}
+
+#expert_menu .expert_reddit_title
+{
+    padding:0 0 0 15px;
+    height:22px;
+    overflow: hidden;
+}
+
+#expert_menu .expert_reddit_title_a
+{
+    color:#333;
+    font-size:12px;
+}
+
+#expert_menu .expert_reddit_comment
+{
+    padding:2px 0 0 15px;
+    color:#666;
+    font-size:12px;
+    max-height:50px;
+    overflow: hidden;
+}
+
+#expert_menu iframe
+{
+    width:300px;
+    height:400px;
+    border:0;
+    padding:0;
+    margin:0;
+}
+
+#expert_trend_chart
+{
+    width: 440px;
+    height:300px;
+}
