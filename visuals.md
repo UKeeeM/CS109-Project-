@@ -63,7 +63,7 @@ Here we see a comparison of word clouds between reddit comments overall and the 
 </div>
 <div>
 <tr>
-<td>GADGETS<img img width="264" alt="gadgets" src="../images/gadgets wordcloud.png"></td><td>INTERNET IS BEAUTIFUL<img img width="264" alt="internetisbeautiful" src="../images/InternetIsBeautiful wordcloud.png"></td>
+<td>GADGETS<img img width="264" alt="gadgets" src="../images/gadgets wordcloud.png"></td><td>INTERNET IS BEAUTIFUL<img img width="364" alt="internetisbeautiful" src="../images/InternetIsBeautiful wordcloud.png"></td>
 </tr>
 </div>
 <div>
@@ -73,7 +73,7 @@ Here we see a comparison of word clouds between reddit comments overall and the 
 </div>
 <div>
 <tr>
-<td>NEWS<img img width="264" alt="news" src="../images/news wordcloud.png"></td><td>NFL<img img width="264" alt="nfl" src="../images/nfl wordcloud.png"></td>
+<td>NEWS<img img width="364" alt="news" src="../images/news wordcloud.png"></td><td>NFL<img img width="264" alt="nfl" src="../images/nfl wordcloud.png"></td>
 </tr>
 </div>
 <div>
@@ -83,7 +83,7 @@ Here we see a comparison of word clouds between reddit comments overall and the 
 </div>
 <div>
 <tr>
-<td>PROGRAMMING<img img width="264" alt="programming" src="../images/programming wordcloud.png"></td><td>SCIENCE<img img width="264" alt="science" src="../images/science wordcloud.png"></td>
+<td>PROGRAMMING<img img width="264" alt="programming" src="../images/programming wordcloud.png"></td><td>SCIENCE<img img width="364" alt="science" src="../images/science wordcloud.png"></td>
 </tr>
 </div>
 <div>
