@@ -22,8 +22,6 @@ The extension is built using Javascript, CSS, and HTML
 
 # Server
 
-### Making Requests
-
 #### Making Individual Requests
 http://107.170.13.109:2222/keywords?url=" + [URL to scrape]
 * simple GET request
