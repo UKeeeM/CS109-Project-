@@ -7,19 +7,27 @@ permalink: /visuals/
 
 ##EDA Visuals
 
-<table>
-<tr>
-<td><h3>reddit Comment Up Votes</h3><img img width="464" alt="commenthist" src="../images/commenthist.png"></td><td><h3>Article Comment Up Votes</h3><img img width="464" alt="articlehist" src="../images/articlehist.png"></td>
-</tr>
-</table>
+<div>
+  <h3>reddit Comment Up Votes</h3>
+  <img img width="464" alt="commenthist" src="../images/commenthist.png">
+</div>
+
+<div>
+  <h3>Article Comment Up Votes</h3>
+  <img img width="464" alt="articlehist" src="../images/articlehist.png">
+</div>
 
 As we see here, the reddit comment up votes are very much skewed to the right with most of the comments recieving few up votes. On the other hand, the article comments are a lot lest skewed than the reddit comments, and there are several peaks in the data that can be seen in the histogram. This suggests that the reddit comments and article comments are distributed quite differently when it comes to up votes.
 
-<table>
-<tr>
-<td><h3>Subreddits</h3><img img width="464" alt="commentbar" src="../images/commentbar.png"></td><td><h3>Article Categories</h3><img img width="464" alt="articlebar" src="../images/articlebar.png"></td>
-</tr>
-</table>
+<div>
+  <h3>Subreddits</h3>
+  <img img width="464" alt="commentbar" src="../images/commentbar.png">
+</div>
+
+<div>
+  <h3>Article Categories</h3>
+  <img img width="464" alt="articlebar" src="../images/articlebar.png">
+</div>
 
 Here we see that the subreddits from the reddit comments have similar categories as the ones found in the articles. The rankings are slightly different with news being the highest category from the reddit comments and science being the highest category from the article comments. However, in general the two data set show similar subreddits.
 
@@ -45,48 +53,57 @@ Here we see a comparison of word clouds between reddit comments overall and the 
 <div>
 <table>
 <tr>
-<td>CANADA POLITICS<img img width="264" alt="canadapolitics" src="../images/CanadaPolitics wordcloud.png"></td><td>CONSERVATIVE<img img width="264" alt="conservative" src="../images/Conservative wordcloud.png"></td><td>DOCUMENTARIES<img img width="264" alt="documentaries" src="../images/Documentaries wordcloud.png"></td>
+<td>CANADA POLITICS<img img width="264" alt="canadapolitics" src="../images/CanadaPolitics wordcloud.png"></td><td>CONSERVATIVE<img img width="264" alt="conservative" src="../images/Conservative wordcloud.png"></td>
 </tr>
 </div>
 <div>
 <tr>
-<td>FOOD<img img width="264" alt="food" src="../images/food wordcloud.png"></td><td>GADGETS<img img width="264" alt="gadgets" src="../images/gadgets wordcloud.png"></td><td>INTERNET IS BEAUTIFUL<img img width="264" alt="internetisbeautiful" src="../images/InternetIsBeautiful wordcloud.png"></td>
+<td>DOCUMENTARIES<img img width="264" alt="documentaries" src="../images/Documentaries wordcloud.png"></td><td>FOOD<img img width="264" alt="food" src="../images/food wordcloud.png"></td>
 </tr>
-</table>
 </div>
 <div>
 <tr>
-<td>LIBERAL<img img width="264" alt="liberal" src="../images/Liberal wordcloud.png"></td><td>NBA<img img width="264" alt="nba" src="../images/nba wordcloud.png"></td><td>NEWS<img img width="264" alt="news" src="../images/news wordcloud.png"></td>
+<td>GADGETS<img img width="264" alt="gadgets" src="../images/gadgets wordcloud.png"></td><td>INTERNET IS BEAUTIFUL<img img width="264" alt="internetisbeautiful" src="../images/InternetIsBeautiful wordcloud.png"></td>
 </tr>
-</table>
 </div>
 <div>
 <tr>
-<td>NFL<img img width="264" alt="nfl" src="../images/nfl wordcloud.png"></td><td>NOT THE ONION<img img width="264" alt="nottheonion" src="../images/nottheonion wordcloud.png"></td><td>POLITICS<img img width="264" alt="politics" src="../images/politics wordcloud.png"></td>
+<td>LIBERAL<img img width="264" alt="liberal" src="../images/Liberal wordcloud.png"></td><td>NBA<img img width="264" alt="nba" src="../images/nba wordcloud.png"></td>
 </tr>
-</table>
 </div>
 <div>
 <tr>
-<td>PROGRAMMING<img img width="264" alt="programming" src="../images/programming wordcloud.png"></td><td>SCIENCE<img img width="264" alt="science" src="../images/science wordcloud.png"></td><td>SOCCER<img img width="264" alt="soccer" src="../images/soccer wordcloud.png"></td>
+<td>NEWS<img img width="264" alt="news" src="../images/news wordcloud.png"></td><td>NFL<img img width="264" alt="nfl" src="../images/nfl wordcloud.png"></td>
 </tr>
-</table>
 </div>
 <div>
 <tr>
-<td>SPACE<img img width="264" alt="space" src="../images/space wordcloud.png"></td><td>TECHNOLOGY<img img width="264" alt="technology" src="../images/technology wordcloud.png"></td><td>TODAY I LEARNED<img img width="264" alt="todayilearned" src="../images/todayilearnedwordcloud.png"></td>
+<td>NOT THE ONION<img img width="264" alt="nottheonion" src="../images/nottheonion wordcloud.png"></td><td>POLITICS<img img width="264" alt="politics" src="../images/politics wordcloud.png"></td>
 </tr>
-</table>
 </div>
 <div>
 <tr>
-<td>UK POLITICS<img img width="264" alt="ukpolitics" src="../images/ukpolitics wordcloud.png"></td><td>UPLIFITING NEWS<img img width="264" alt="upliftingnews" src="../images/UpliftingNews wordcloud.png"></td><td>US POLITICS<img img width="264" alt="uspolitics" src="../images/uspolitics wordcloud.png"></td>
+<td>PROGRAMMING<img img width="264" alt="programming" src="../images/programming wordcloud.png"></td><td>SCIENCE<img img width="264" alt="science" src="../images/science wordcloud.png"></td>
 </tr>
-</table>
 </div>
 <div>
 <tr>
-<td>WORLD NEWS<img img width="264" alt="worldnews" src="../images/worldnews wordcloud.png"></td>
+<td>SOCCER<img img width="264" alt="soccer" src="../images/soccer wordcloud.png"></td><td>SPACE<img img width="264" alt="space" src="../images/space wordcloud.png"></td>
+</tr>
+</div>
+<div>
+<tr>
+<td>TECHNOLOGY<img img width="264" alt="technology" src="../images/technology wordcloud.png"></td><td>TODAY I LEARNED<img img width="264" alt="todayilearned" src="../images/todayilearnedwordcloud.png"></td>
+</tr>
+</div>
+<div>
+<tr>
+<td>UK POLITICS<img img width="264" alt="ukpolitics" src="../images/ukpolitics wordcloud.png"></td><td>UPLIFITING NEWS<img img width="264" alt="upliftingnews" src="../images/UpliftingNews wordcloud.png">
+</tr>
+</div>
+<div>
+<tr>
+</td><td>US POLITICS<img img width="264" alt="uspolitics" src="../images/uspolitics wordcloud.png"></td><td>WORLD NEWS<img img width="264" alt="worldnews" src="../images/worldnews wordcloud.png"></td>
 </tr>
 </table>
 </div>
