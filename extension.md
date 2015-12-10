@@ -5,6 +5,8 @@ nav-label: Extension
 permalink: /extension/
 ---
 
+Found: <a target="_blank" href="https://github.com/UKeeeM/CS109-Project-/tree/expert-app">here</a>
+
 The goal of the Chrome Extension is to provide a user interface for individuals surfing the web to find experts and relevant information on the content that the user is viewing.
 
 There are three components to the extension:
@@ -20,3 +22,18 @@ The goal of the project is to help individuals become experts at a particular to
 <b>3. Expert finder</b>
 
 At this time, the extension uses the <a href="https://www.reddit.com/dev/api">Reddit API</a> to find posts relevant to the keywords.  Once the server determines the keywords for a some web content, it passes those terms to the query field in a Reddit API call.  The first thing returned are relevant posts.  After receiving the post, a subsequent call is made to extract comments for those posts.  The highest rated post are used to determine who an expert is.
+
+
+### Install instructions
+
+1. Clone this repo and switch to the the "expert-app" branch
+
+2. Open your Chrome browser and type "chrome://extensions/" in the navigation bar
+
+3. Make sure developer mode is checked
+
+4. Click "Load unpacked extension"
+
+5. Navigate to the cloned repo directory and select the "extension" folder within it
+
+6. Visit a news article and click the expert icon
