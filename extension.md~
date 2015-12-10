@@ -15,7 +15,7 @@ The first step in the process is to understand what the article / web content is
 
 <b>2. Trending Data</b>
 
-The goal of the project is to help individuals become experts at a particular topic by presenting them with relevant information and exposing them to other experts on the topic.  One piece of useful information is how the topic has trended over time.  For this, we used Google Trends Data.  We found this <a target="_blank" href="http://stackoverflow.com/questions/7805711/javascript-json-google-trends-api">page</a> useful.  The data is pulled from google.  The chart is produced using a javascript charting tool called <a href="http://www.highcharts.com/">HighCharts</a>.  Once the server determines the keywords for the content, it uses those keywords to extract trending data from Google.  The server then passes that data back to the Chrome Extension, which uses HighCharts to produce the graph.
+The goal of the project is to help the individuals become experts at a particular topic by presenting them with relevant information and exposing them to other experts on the topic.  One piece of useful information is how the topic has trended over time.  For this, we used Google Trends Data.  We found this <a target="_blank" href="http://stackoverflow.com/questions/7805711/javascript-json-google-trends-api">page</a> useful.  The data is pulled from google.  The chart is produced using a javascript charting tool called <a href="http://www.highcharts.com/">HighCharts</a>.  Once the server determines the keywords for the content, it uses those keywords to extract trending data from Google.  It then passes that data back to the Chrome Extension, which uses HighCharts to produce the graph.
 
 <b>3. Expert finder</b>
 

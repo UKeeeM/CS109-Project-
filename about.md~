@@ -1,13 +1,3 @@
-<<<<<<< HEAD
----
-layout: page
-title: About
-nav-label: Team
-permalink: about/
----
-
-Many of us are frequent Reddit users, and so it occured to us that often times we do not neccessarily know what the best comments are on certain posts. Despite having the upvote feature in Reddit, our group wanted a more accurate way to determine the best comments. And so the goal of our project is to build an application that identifies the best comments for any article defined by the user. In order to provide the best and most relevent comments for articles that have somehow escapped the Reddit verse, we first found similar articles that are related to the identified Reddit post and from there we determined the best comments through a prediction model. Our work can be viewed through the navigation bar on top and an extension is built and can be downloaded for easier user experience.
-=======
 ---
 layout: page
 title: About
@@ -16,5 +6,4 @@ permalink: /about/
 ---
 <h2>Team</h2><h3>Jiahui Huang, You Myeong Kim, Gerren Scoon, Paul Bekolay</h3>
 
-Many of us are frequent reddit users, and so it occured to us that often times we do not neccessarily know what the best comments are on certain posts. Despite having the upvote feature in reddit, our group wanted a more accurate way to determine the best comments. And so the goal of our project is to build an application that identifies the best comments for any article defined by the user. In order to provide the best and most relevent comments for articles that have somehow escapped the reddit verse, we first found similar articles that are related to the identified reddit post and from there we determined the best comments through a prediction model. Our work can be viewed through the navigation bar on top and an extension is built and can be downloaded for easier user experience.
->>>>>>> c8bae037954690220278f7c2ba10be7608bc4a88
+Many of us are frequent reddit users, the so called "Front Page of the Internet". Websites such as fivethirtyeight.com have taken note that reddit comment data is an interesting snap shot that shows how the internet users think and talk. Our group wanted to analyze what were the factors that went in to creating a reddit comment that is well liked by the community. We also wanted to explore the differences between the different subreddit communities and examine if their views were any similar. We also wanted to use newspaper articles found online as a benchmark to see how different online opinion fared aganist journalist opinions. We aimed to examine whether using features from reddit comments, and see if we could predict how well the comments will do. Also, if the parent thread of the comment stemmed from a news article, we tried to see if how well the comment does had any relations with how similar the comment is to the news article. Our work can be viewed through the navigation bar on top and an extension is built and can be downloaded for easier user experience.
