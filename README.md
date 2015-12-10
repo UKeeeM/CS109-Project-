@@ -1,6 +1,28 @@
 #CS109 Final Project
 
-## Making Requests
+# Extension
+
+The goal of the Chrome Extension is to provide a user interface for individuals surfing the web to find experts and relevant information on the content that the user is viewing.
+
+The extension is built using Javascript, CSS, and HTML
+
+Install instructions
+
+1. Clone this repo and switch the the "expert-app" branch
+
+2. Open up chrome and paste chrome://extensions/ in the navigation bar
+
+3. Make sure developer mode is checked
+
+4. Click "Load unpacked extension"
+
+5. Go to the cloned repo directory and select the "extension" folder within in
+
+6. Visit a news article and click the expert icon(edited)
+
+## Server
+
+### Making Requests
 
 #### Making Individual Requests
 http://107.170.13.109:2222/keywords?url=" + [URL to scrape]
