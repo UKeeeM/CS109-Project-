@@ -4,7 +4,7 @@ The goal of the Chrome Extension is to provide a user interface for individuals 
 
 The extension is built using Javascript, CSS, and HTML
 
-Install instructions
+### Install instructions
 
 1. Clone this repo and switch the the "expert-app" branch
 
@@ -18,7 +18,9 @@ Install instructions
 
 6. Visit a news article and click the expert icon(edited)
 
-## Server
+
+
+# Server
 
 ### Making Requests
 
