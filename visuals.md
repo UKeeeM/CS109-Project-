@@ -20,14 +20,14 @@ permalink: /visuals/
 As we see here, the reddit comment up votes are very much skewed to the right with most of the comments recieving few up votes. On the other hand, the article comments are a lot lest skewed than the reddit comments, and there are several peaks in the data that can be seen in the histogram. This suggests that the reddit comments and article comments are distributed quite differently when it comes to up votes. Furthermore, it is interesting to note that the 95th percentile cut off is a lot higher for the article comments than for the reddit comments as the reddit comments 95th percentile cut off is at 119 upvotes, and the article comments is at 6367.6 up votes.
 
 <div>
-  <h3>Percentage of 95th Percentile & Above reddit Comments vs Time</h3>
+  <h3>Percent of 95th Percentile & Above reddit Comments vs Time</h3>
   <img img width="664" alt="perhourreddit" src="../images/perhourreddit.png">
 </div>
 
 It is seen here that during the hours between 60 and 70 we have the highest percentage of comments posted from the 95th percentile, thus suggesting that there may be a time of the day where more comments are likely to get up votes than other times. It is also interesting to note that the curve shown above is roughly a very pointy bell curve with the two ends having some of the lowest percentage of 95th percentile comments.
 
 <div>
-  <h3>Percentage of 95th Percentile & Above Article Comments vs Time</h3>
+  <h3>Percent of 95th Percentile & Above Article Comments vs Time</h3>
   <img img width="664" alt="perhourarticle" src="../images/perhourarticle.png">
 </div>
 
