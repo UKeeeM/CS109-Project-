@@ -63,47 +63,47 @@ Here we see a comparison of word clouds between reddit comments overall and the 
 </div>
 <div>
 <tr>
-<td>GADGETS<img img width="264" alt="gadgets" src="../images/gadgets wordcloud.png"></td><td>INTERNET IS BEAUTIFUL<img img width="364" alt="internetisbeautiful" src="../images/InternetIsBeautiful wordcloud.png"></td>
+<td>GADGETS<img alt="gadgets" src="../images/gadgets wordcloud.png"></td><td>INTERNET IS BEAUTIFUL<img alt="internetisbeautiful" src="../images/InternetIsBeautiful wordcloud.png"></td>
 </tr>
 </div>
 <div>
 <tr>
-<td>LIBERAL<img img width="264" alt="liberal" src="../images/Liberal wordcloud.png"></td><td>NBA<img img width="264" alt="nba" src="../images/nba wordcloud.png"></td>
+<td>LIBERAL<img alt="liberal" src="../images/Liberal wordcloud.png"></td><td>NBA<img alt="nba" src="../images/nba wordcloud.png"></td>
 </tr>
 </div>
 <div>
 <tr>
-<td>NEWS<img img width="364" alt="news" src="../images/news wordcloud.png"></td><td>NFL<img img width="264" alt="nfl" src="../images/nfl wordcloud.png"></td>
+<td>NEWS<img alt="news" src="../images/news wordcloud.png"></td><td>NFL<img alt="nfl" src="../images/nfl wordcloud.png"></td>
 </tr>
 </div>
 <div>
 <tr>
-<td>NOT THE ONION<img img width="264" alt="nottheonion" src="../images/nottheonion wordcloud.png"></td><td>POLITICS<img img width="264" alt="politics" src="../images/politics wordcloud.png"></td>
+<td>NOT THE ONION<img alt="nottheonion" src="../images/nottheonion wordcloud.png"></td><td>POLITICS<img alt="politics" src="../images/politics wordcloud.png"></td>
 </tr>
 </div>
 <div>
 <tr>
-<td>PROGRAMMING<img img width="264" alt="programming" src="../images/programming wordcloud.png"></td><td>SCIENCE<img img width="364" alt="science" src="../images/science wordcloud.png"></td>
+<td>PROGRAMMING<img alt="programming" src="../images/programming wordcloud.png"></td><td>SCIENCE<img alt="science" src="../images/science wordcloud.png"></td>
 </tr>
 </div>
 <div>
 <tr>
-<td>SOCCER<img img width="264" alt="soccer" src="../images/soccer wordcloud.png"></td><td>SPACE<img img width="264" alt="space" src="../images/space wordcloud.png"></td>
+<td>SOCCER<img alt="soccer" src="../images/soccer wordcloud.png"></td><td>SPACE<img alt="space" src="../images/space wordcloud.png"></td>
 </tr>
 </div>
 <div>
 <tr>
-<td>TECHNOLOGY<img img width="264" alt="technology" src="../images/technology wordcloud.png"></td><td>TODAY I LEARNED<img img width="264" alt="todayilearned" src="../images/todayilearnedwordcloud.png"></td>
+<td>TECHNOLOGY<img alt="technology" src="../images/technology wordcloud.png"></td><td>TODAY I LEARNED<img alt="todayilearned" src="../images/todayilearnedwordcloud.png"></td>
 </tr>
 </div>
 <div>
 <tr>
-<td>UK POLITICS<img img width="264" alt="ukpolitics" src="../images/ukpolitics wordcloud.png"></td><td>UPLIFITING NEWS<img img width="264" alt="upliftingnews" src="../images/UpliftingNews wordcloud.png">
+<td>UK POLITICS<img alt="ukpolitics" src="../images/ukpolitics wordcloud.png"></td><td>UPLIFITING NEWS<img alt="upliftingnews" src="../images/UpliftingNews wordcloud.png">
 </tr>
 </div>
 <div>
 <tr>
-</td><td>US POLITICS<img img width="264" alt="uspolitics" src="../images/uspolitics wordcloud.png"></td><td>WORLD NEWS<img img width="264" alt="worldnews" src="../images/worldnews wordcloud.png"></td>
+</td><td>US POLITICS<img alt="uspolitics" src="../images/uspolitics wordcloud.png"></td><td>WORLD NEWS<img alt="worldnews" src="../images/worldnews wordcloud.png"></td>
 </tr>
 </table>
 </div>
