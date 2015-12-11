@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Team
 nav-label: About
 permalink: /about/
 ---
-<h2>Team</h2><h3>Paul Bekolay, Jiahui Huang, You Myeong Kim, Gerren Scoon</h3>
+<h3>Paul Bekolay, Jiahui Huang, You Myeong Kim, Gerren Scoon</h3>
 
 
 
