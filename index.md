@@ -1,10 +1,8 @@
 ---
 layout: page
-title: CS109 Final
+title: Find Your Expert
 permalink: 
 ---
-
-##Find Your Expert#
 
 ####The goal of our projects is to match web content (news articles, blog posts, etc) with experts on that content. Specifically, we've chosen to use Reddit's massive database to find experts based on the comments that they've left.
 
