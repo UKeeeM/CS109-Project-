@@ -5,9 +5,9 @@ nav-label: Conclusion
 permalink: /conclusion/
 ---
 
-here is our conclusion
+<b>Conclusions:</b>
 
-Conclusions: Natural Language Processing is very Difficult 
+Natural Language Processing is very Difficult 
 
 1.) It is very difficult to predict reddit comment's sucess using text based data, given that the vast majority of reddit comments will never be popular.
 
@@ -17,7 +17,7 @@ Conclusions: Natural Language Processing is very Difficult
 
 4.) While it is hard to predict how well a comment form reddit will do, it is much simpler and easier to predict and examine how closely related a comment is to an article
 
-Related Work:
+<b> Related Work: </b>
 
 What inspired us the most initally comes from Nate Silver, and his blog fivethirtyeight.com. There he has an interactive web tool that tells us how reddit comments have evolved over time. http://projects.fivethirtyeight.com/reddit-ngram/?keyword=doge.dog&start=20071015&end=20150831&smoothing=10
 
