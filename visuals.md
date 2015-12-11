@@ -24,7 +24,8 @@ As we see here, the reddit comment up votes are very much skewed to the right wi
   <img img width="664" alt="perhourreddit" src="../images/perhourreddit.png">
 </div>
 
-It is seen here that during the hours between 60 and 70 we have the highest percentage of reddit comments posted from the 95th percentile, thus suggesting that there may be a time of the day where more comments are likely to get up votes than other times. It is also interesting to note that the curve shown above is roughly a very pointy bell curve with the two ends having some of the lowest percentage of 95th percentile comments.
+How the time is divided up is that each number represents a 10 minute increment starting from 12:00 am. 
+It is seen here that during the hours between 60 and 70 (10:00 am and 11:40: am)  we have the highest percentage of reddit comments posted from the 95th percentile, thus suggesting that there may be a time of the day where more comments are likely to get up votes than other times. A possible explanation is that it is good to post comments relateively early, so that it has ore time throught the day for users to find. Also the reason why we did it soley on time is due to there not being a signfiicant relationship between day of the week and upvote score. It is also interesting to note that the curve shown above is roughly a very pointy bell curve with the two ends having some of the lowest percentage of 95th percentile comments. 
 
 <div>
   <h3>Percent of 95th Percentile & Above Article Comments vs Time</h3>
