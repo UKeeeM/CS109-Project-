@@ -1,6 +1,6 @@
 ##Find Your Expert
 
-#### The goal of our projects is to match web content (news artciles, blog posts, etc) with experts on that content.  Specifically, we've chosen to use Reddit's massive database to find experts based on the comments that they've left.
+#### The goal of our projects is to match web content (news articles, blog posts, etc) with experts on that content.  Specifically, we've chosen to use Reddit's massive database to find experts based on the comments that they've left.
 
 The project consists of 3 major components
 - Modeling - Training and Prediction (details below)
