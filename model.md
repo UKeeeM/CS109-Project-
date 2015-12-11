@@ -32,4 +32,6 @@ The data showed improvement of around 2~3% from the baseline, and produced a new
 
 <add the graph here>
 
-More modelling is done on the extention github for how we found the simliarity between articles and comments.
+<b>Prediction</b>
+We do the predictions through a Google Chrome Extension that we created. More detials regarding prediciton can be found
+(<a href="https://github.com/UKeeeM/CS109-Project-/blob/master/Prediction%20Data%20Factory.ipynb">here, (Predictions)</a>)
