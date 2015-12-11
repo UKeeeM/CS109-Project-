@@ -36,6 +36,8 @@ In our model, we attempted to first answer the question of whether we could pred
 
 
 The results show that there wasn't much improvement from the baseline. One explanation is that there are simply too many factors that I am not accounting for. Also that the choice of words do not have much predictive power as to how well liked the comment will be on reddit in general
+![acc](https://cloud.githubusercontent.com/assets/5473875/11735072/38719040-9f8b-11e5-809b-f8849863b4d8.PNG)
+
 
 5.) We can try this analysis again on a more limited scoped subreddit, such as /r/Conservative.
 The data showed improvement of around 2~3% from the baseline, and produced a new set of words that can produce good results.
