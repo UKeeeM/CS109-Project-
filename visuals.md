@@ -66,6 +66,7 @@ Here we see a comparison of word clouds between reddit comments overall and the 
 <h3>Subreddit Categories</h3>
 
 <div>
+<div>
 <table>
 <tr>
 <td>CANADA POLITICS<img alt="canadapolitics" src="../images/CanadaPolitics wordcloud.png"></td><td>CONSERVATIVE<img alt="conservative" src="../images/Conservative wordcloud.png"></td>
@@ -121,6 +122,7 @@ Here we see a comparison of word clouds between reddit comments overall and the 
 </td><td>US POLITICS<img alt="uspolitics" src="../images/uspolitics wordcloud.png"></td><td>WORLD NEWS<img alt="worldnews" src="../images/worldnews wordcloud.png"></td>
 </tr>
 </table>
+</div>
 </div>
 
 Here we see a variety of different word clouds for each of the subreddit cateogires that we studied. We used these word clouds to visualize the key words used in each of the subreddits.
