@@ -5,4 +5,4 @@ nav-label: Code
 permalink: /code/
 ---
 
-Our iPython process book and data can be found here<a href="https://github.com/UKeeeM/CS109-Project-">HERE</a>.
+Our iPython process book and data can be found <a href="https://github.com/UKeeeM/CS109-Project-">HERE</a>.
