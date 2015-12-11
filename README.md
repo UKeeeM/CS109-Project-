@@ -2,7 +2,9 @@
 
 <h2>Overview</h2>
 
-Many of us are frequent reddit users, the so called “Front Page of the Internet”. Websites such as fivethirtyeight.com have taken note that reddit comment data is an interesting snap shot that shows how the internet users think and talk. Our group wanted to analyze what were the factors that went in to creating a reddit comment that is well liked by the community. We also wanted to explore the differences between the different subreddit communities and examine if their views were any similar. We also wanted to use newspaper articles found online as a benchmark to see how different online opinion fared aganist journalist opinions. We aimed to examine whether using features from reddit comments, and see if we could predict how well the comments will do. Also, if the parent thread of the comment stemmed from a news article, we tried to see if how well the comment does had any relations with how similar the comment is to the news article. Our work can be viewed through our <a href="http://ukeeem.github.io/CS109-Project-//">website</a> where final results from our prediction model is presented. In addition, our Google Chrome extension which can be found <a href="http://ukeeem.github.io/CS109-Project-//extension/">here</a> can be downloaded for easier user experience. Finally, for a quick walkthrough of our project, please watch our 2 min screencast here. 
+### The goal of our projects is to match web content (news artciles, blog posts, etc) with experts on that content.  Specifically, we've decided to use Reddit's massive database to find experts based on the comments that they've left.
+
+Many of us are frequent reddit users, the so called “Front Page of the Internet”. Websites such as fivethirtyeight.com have taken note that reddit comment data is an interesting snap shot that shows how the internet users think and talk. Our group wanted to analyze what were the factors that went into creating a reddit comment that is well liked by the community. We also wanted to explore the differences between the different subreddit communities and examine if their views were any similar. We also wanted to use newspaper articles found online as a benchmark to see how different online opinion fared aganist journalist opinions. We aimed to examine whether using features from reddit comments, and see if we could predict how well the comments will do. Also, if the parent thread of the comment stemmed from a news article, we tried to see if how well the comment does had any relations with how similar the comment is to the news article. Our work can be viewed through our <a href="http://ukeeem.github.io/CS109-Project-//">website</a> where final results from our prediction model is presented. In addition, our Google Chrome extension which can be found <a href="http://ukeeem.github.io/CS109-Project-//extension/">here</a> can be downloaded for easier user experience. Finally, for a quick walkthrough of our project, please watch our 2 min screencast here. 
 
 <h2>Training Strategy</h2>
 The overarching strategy of our application consists of two phases, a prediction phase and a training phase. The training phase results in a parametrized model to predict top comments. The prediction phase uses this model to predict the top comments for a particular article.
@@ -44,6 +46,9 @@ The collection and feature extraction steps of the Prediction startegy can be su
 The last step is to pass the completed features to the **Model**. The **Model**  uses the features in a to identify the top comments and return them to the user.
 <br>
 <br>
+
+## Extension
+
 
 
 <h2>Website</h2>
