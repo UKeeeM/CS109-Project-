@@ -21,6 +21,7 @@ Source Files: <a target="_blank" href="https://github.com/UKeeeM/CS109-Project-/
 
 6. Visit a news article and click the expert icon
 
+### Goals & Info
 
 The goal of the Chrome Extension is to provide a user interface for individuals surfing the web to find experts and relevant information on the content that the user is viewing.
 
