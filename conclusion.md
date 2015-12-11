@@ -7,7 +7,7 @@ permalink: /conclusion/
 
 <b>Conclusions:</b>
 
-Natural Language Processing is very Difficult 
+Natural Language Processing is difficult 
 
 <b>1.)</b> It is very difficult to predict reddit comment's sucess using text based data, given that the vast majority of reddit comments will never be popular.
 
