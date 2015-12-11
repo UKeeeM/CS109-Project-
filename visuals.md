@@ -20,19 +20,19 @@ permalink: /visuals/
 As we see here, the reddit comment up votes are very much skewed to the right with most of the comments recieving few up votes. On the other hand, the article comments are a lot lest skewed than the reddit comments, and there are several peaks in the data that can be seen in the histogram. This suggests that the reddit comments and article comments are distributed quite differently when it comes to up votes. Furthermore, it is interesting to note that the 95th percentile cut off is a lot higher for the article comments than for the reddit comments as the reddit comments 95th percentile cut off is at 119 upvotes, and the article comments is at 6367.6 up votes.
 
 <div>
-  <h3>Percent of 95th Percentile & Above reddit Comments vs Time</h3>
-  <img img width="664" alt="perhourreddit" src="../images/perhourreddit.png">
+  <h3>Frequency vs Time: reddit Comments</h3>
+  <img img width="664" alt="timecomment" src="../images/timecomment.png">
 </div>
 
 How the time is divided up is that each number represents a 10 minute increment starting from 12:00 am. 
-It is seen here that during the hours between 60 and 70 (10:00 am and 11:40: am)  we have the highest percentage of reddit comments posted from the 95th percentile, thus suggesting that there may be a time of the day where more comments are likely to get up votes than other times. A possible explanation is that it is good to post comments relateively early, so that it has ore time throught the day for users to find. Also the reason why we did it soley on time is due to there not being a signfiicant relationship between day of the week and upvote score. It is also interesting to note that the curve shown above is roughly a very pointy bell curve with the two ends having some of the lowest percentage of 95th percentile comments. 
+It is seen here that during the hours between 60 and 70 (10:00 am and 11:40: am)  we have the highest frequency of reddit comments posted from the 95th percentile, thus suggesting that there may be a time of the day where more comments are likely to get up votes than other times. A possible explanation is that it is good to post comments relateively early, so that it has ore time throught the day for users to find. Also the reason why we did it soley on time is due to there not being a signfiicant relationship between day of the week and upvote score. It is also interesting to note that the curve shown above is roughly a very pointy bell curve with the two ends having some of the lowest percentage of 95th percentile comments. 
 
 <div>
-  <h3>Percent of 95th Percentile & Above Article Comments vs Time</h3>
-  <img img width="664" alt="perhourarticle" src="../images/perhourarticle.png">
+  <h3>Frequency vs Time: Article</h3>
+  <img img width="664" alt="timeart" src="../images/timeart.png">
 </div>
 
-Here for the article comments, it can be seen that no apparent correlation exist between percentage of comments in the 95th percentile and above and the time in which the comments were posted. Thus, suggesting that the up votes for popular article comments are posted quite randomly, unlike what we saw with the overall reddit comments. Although it is interesting to note that the highest percentage of highly voted comments here are mostly posted in the range of 40 to 60, which is similar to that of the reddit comments.
+Generated similarly to the reddit comments graph above, it is seen here that during the hours between 40 and 60 (6:40 am and 10:11 am) we have the highest frequency of article comments posted from the 95th percentile, thus suggesting that there may be a time of the day where more article comments are likely to get up votes than other times. It is also interesting to note that the curve shown above is roughly a very pointy bell curve with the two ends having some of the lowest frequency of 95th percentile comments. Furthermore, we can see that the time range in which we see a high frequency of highly upvoted article comments is slightly different from that of the reddit comments.
 
 <div>
   <h3>Subreddits</h3>
