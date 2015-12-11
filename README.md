@@ -1,6 +1,13 @@
-<h1>Find Your Expert</h1>
+##Find Your Expert
 
-<h2>Overview</h2>
+#### The goal of our projects is to match web content (news artciles, blog posts, etc) with experts on that content.  Specifically, we've chosen to use Reddit's massive database to find experts based on the comments that they've left.
+
+The project consists of 3 major components
+- Modeling (Training and Prediction) (details below)
+- User Interface - Chrome Extension (<a href="http://ukeeem.github.io/CS109-Project-/extension/">details</a>)
+- Exploratory Data Analysis (<a href="http://ukeeem.github.io/CS109-Project-//visuals/">details</a>)
+
+See below for details on Modeling:
 
 Many of us are frequent reddit users, the so called “Front Page of the Internet”. Websites such as fivethirtyeight.com have taken note that reddit comment data is an interesting snap shot that shows how the internet users think and talk. Our group wanted to analyze what were the factors that went in to creating a reddit comment that is well liked by the community. We also wanted to explore the differences between the different subreddit communities and examine if their views were any similar. We also wanted to use newspaper articles found online as a benchmark to see how different online opinion fared aganist journalist opinions. We aimed to examine whether using features from reddit comments, and see if we could predict how well the comments will do. Also, if the parent thread of the comment stemmed from a news article, we tried to see if how well the comment does had any relations with how similar the comment is to the news article. Our work can be viewed through our <a href="http://ukeeem.github.io/CS109-Project-//">website</a> where final results from our prediction model is presented. In addition, our Google Chrome extension which can be found <a href="http://ukeeem.github.io/CS109-Project-//extension/">here</a> can be downloaded for easier user experience. Finally, for a quick walkthrough of our project, please watch our 2 min screencast <a href="https://youtu.be/epVkicYZzH8">here</a>. 
 
@@ -47,6 +54,12 @@ The last step is to pass the completed features to the **Model**. The **Model** 
 <br>
 <br>
 
+## Extension
+
+The goal of the Chrome Extension is to provide a user interface for individuals surfing the web to find experts and relevant information on the content that the user is viewing.
+
+<a href="http://ukeeem.github.io/CS109-Project-/extension/">Details on Extension</a>
+<a href="https://github.com/UKeeeM/CS109-Project-/tree/expert-app">Extensions Repo</a>
 
 <h2>Website</h2>
 
