@@ -59,6 +59,7 @@ The last step is to pass the completed features to the **Model**. The **Model** 
 The goal of the Chrome Extension is to provide a user interface for individuals surfing the web to find experts and relevant information on the content that the user is viewing.
 
 <a href="http://ukeeem.github.io/CS109-Project-/extension/">Details on Extension</a>
+
 <a href="https://github.com/UKeeeM/CS109-Project-/tree/expert-app">Extensions Repo</a>
 
 <h2>Website</h2>
