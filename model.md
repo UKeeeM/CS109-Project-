@@ -10,7 +10,9 @@ In our model, we attempted to first answer the question of whether we could pred
 
 <b>1.)</b> First step of the modeling process was Upvote Normalization. we normalized our upvotes to the interval [0,1] using this method to rescale the values. The reason for this was due to the extream variance in the number of upvotes that reddit comments recieved. 
 
-*ADDITION SUBTRACTION MATH EQUATION HERE
+<div>
+![math](https://cloud.githubusercontent.com/assets/5473875/11735401/d575838a-9f8e-11e5-9d3f-f56f64b41b40.jpg)
+</div>
 
 <b>2.)</b> Second step was to add in additional features, or charecteristics of the comments. We added in more features such as, number of words in comment, number of charecters in comments, tokenized representation of the words, bag of word representation, and more.
 
@@ -22,7 +24,9 @@ In our model, we attempted to first answer the question of whether we could pred
 
 <b>3.)</b>Classification: We classified the current comments into good or bad comment so that we may be able to predict whether a comment will be good or not. One of the more recommended approach was through the usages of the Naive Bayes Classifier.   It is a simple probabilistic classifiers that applys Bayes' theorem with a strong naive assumption that all the features are independent of each other. We fit the Tokenized sentences data using a TfidfVectorizer to offset certain words taht appear very frequently, which are not stopwords (such as people) from skewing the results
 
-* ADD THE MATH EQUATION HERE
+<div>
+![bay](https://cloud.githubusercontent.com/assets/5473875/11735412/f4f09092-9f8e-11e5-9ec1-f95c1dea7233.jpg)
+</div>
 
 <b>4.)</b> We fit the data and cross validated and checked to see our accruacy and calibration graph, as well as generate a list of words to use and avoid if one wnats to do well on reddit.
 
