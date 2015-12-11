@@ -9,13 +9,13 @@ permalink: /conclusion/
 
 Natural Language Processing is very Difficult 
 
-1.) It is very difficult to predict reddit comment's sucess using text based data, given that the vast majority of reddit comments will never be popular.
+<b>1.)</b> It is very difficult to predict reddit comment's sucess using text based data, given that the vast majority of reddit comments will never be popular.
 
-2.) The predictive power of all the indicators tended to be very low as well for being able to accruately determine a comment's sucess. However, best time to post on reddit is definitely in the morning 9-11 am. 
+<b>2.)</b> The predictive power of all the indicators tended to be very low as well for being able to accruately determine a comment's sucess. However, best time to post on reddit is definitely in the morning 9-11 am. 
 
-3.) However, it gets easier to predict what comments will do better when you choose specific subreddits. For example, subreddit Conservatives, or NFL is a good target for prediction. The more specfic and obscure the subreddit is, the better the predictive power using Naive Bayes Classifier.
+<b>3.)</b> However, it gets easier to predict what comments will do better when you choose specific subreddits. For example, subreddit Conservatives, or NFL is a good target for prediction. The more specfic and obscure the subreddit is, the better the predictive power using Naive Bayes Classifier.
 
-4.) While it is hard to predict how well a comment form reddit will do, it is much simpler and easier to predict and examine how closely related a comment is to an article
+<b>4.)</b> While it is hard to predict how well a comment form reddit will do, it is much simpler and easier to predict and examine how closely related a comment is to an article
 
 <b> Related Work: </b>
 
