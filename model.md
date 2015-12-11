@@ -10,9 +10,8 @@ In our model, we attempted to first answer the question of whether we could pred
 
 <b>1.)</b> First step of the modeling process was Upvote Normalization. we normalized our upvotes to the interval [0,1] using this method to rescale the values. The reason for this was due to the extream variance in the number of upvotes that reddit comments recieved. 
 
-<div>
-![math](https://cloud.githubusercontent.com/assets/5473875/11735401/d575838a-9f8e-11e5-9d3f-f56f64b41b40.jpg)
-</div>
+![math](https://cloud.githubusercontent.com/assets/5473875/11735449/5ef039fc-9f8f-11e5-91dc-ee34faaae48d.jpg)
+
 
 <b>2.)</b> Second step was to add in additional features, or charecteristics of the comments. We added in more features such as, number of words in comment, number of charecters in comments, tokenized representation of the words, bag of word representation, and more.
 
