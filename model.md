@@ -38,16 +38,18 @@ In our model, we attempted to first answer the question of whether we could pred
 
 The results show that there wasn't much improvement from the baseline. One explanation is that there are simply too many factors that I am not accounting for. Also that the choice of words do not have much predictive power as to how well liked the comment will be on reddit in general
 <div>
-![accu0](https://cloud.githubusercontent.com/assets/5473875/11735124/d4aef024-9f8b-11e5-8c0b-178428c9e05d.PNG)
-![acc](https://cloud.githubusercontent.com/assets/5473875/11735072/38719040-9f8b-11e5-809b-f8849863b4d8.PNG)
+![accu0](https://cloud.githubusercontent.com/assets/5473875/11736273/07c0724a-9f9a-11e5-809a-f17b0bf63539.PNG)
+![acc](https://cloud.githubusercontent.com/assets/5473875/11736275/0b498122-9f9a-11e5-833d-07b4e76d2dd4.PNG)
+
 </div>
 
 <b>5.)</b> We can try this analysis again on a more limited scoped subreddit, such as /r/Conservative.
 The data showed improvement of around 2~3% from the baseline, and produced a new set of words that can produce good results.
 
 <div>
-![accu](https://cloud.githubusercontent.com/assets/5473875/11735139/fd0bed56-9f8b-11e5-96ce-41f88661033f.PNG)
-![accu2](https://cloud.githubusercontent.com/assets/5473875/11735147/13f0f430-9f8c-11e5-9459-6fe115011b17.PNG)
+![accu2](https://cloud.githubusercontent.com/assets/5473875/11736271/0392d53c-9f9a-11e5-98c1-4e3760bbf222.PNG)
+![accu](https://cloud.githubusercontent.com/assets/5473875/11736277/0da01116-9f9a-11e5-9568-c7c8c242f6b3.PNG)
+
 </div>
 
 <div>
