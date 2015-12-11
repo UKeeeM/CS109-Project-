@@ -19,7 +19,8 @@ Natural Language Processing is very Difficult
 
 <b> Related Work: </b>
 
-What inspired us the most initally comes from Nate Silver, and his blog fivethirtyeight.com. There he has an interactive web tool that tells us how reddit comments have evolved over time. http://projects.fivethirtyeight.com/reddit-ngram/?keyword=doge.dog&start=20071015&end=20150831&smoothing=10
+What inspired us the most initally comes from Nate Silver, and his blog fivethirtyeight.com. There he has an (<a href="http://projects.fivethirtyeight.com/reddit-ngram/?keyword=doge.dog&start=20071015&end=20150831&smoothing=10">interactive web tool</a>) that tells us how reddit comments have evolved over time.
 
-We also found related work from Stanford. They tried something slighlty differently, instead of attempting to analyze comments they wanted to analyze reddit posts themselves. They also did their project on Matlab. Their work can be found here
-http://cs229.stanford.edu/proj2012/ZamoshchinSegall-PredictingRedditPostPopularity.pdf
+
+We also found related work from Stanford. They tried something slighlty differently, instead of attempting to analyze comments they wanted to analyze reddit posts themselves. They also did their project on Matlab. Their work can be found 
+(<a href="http://cs229.stanford.edu/proj2012/ZamoshchinSegall-PredictingRedditPostPopularity.pdf">here</a>) 
