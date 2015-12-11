@@ -3,7 +3,7 @@
 #### The goal of our projects is to match web content (news artciles, blog posts, etc) with experts on that content.  Specifically, we've chosen to use Reddit's massive database to find experts based on the comments that they've left.
 
 The project consists of 3 major components
-- Modeling - Training and Prediction (<a href="http://ukeeem.github.io/CS109-Project-//model/">details</a>)
+- Modeling - Training and Prediction (details below)
 - User Interface - Chrome Extension (<a href="http://ukeeem.github.io/CS109-Project-/extension/">details</a>)
 - Exploratory Data Analysis (<a href="http://ukeeem.github.io/CS109-Project-//visuals/">details</a>)
 
@@ -64,4 +64,4 @@ The goal of the Chrome Extension is to provide a user interface for individuals 
 <h2>Website</h2>
 
 Our website displays our final results as well as initial motivation and question. It also includes a walkthrough of our project in video and contains many visualizations displaying our results. Go <a href="http://ukeeem.github.io/CS109-Project-//">here</a> to visit our website.
-* Extension
+
