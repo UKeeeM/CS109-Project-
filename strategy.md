@@ -10,10 +10,7 @@ The overarching strategy of our application consists of two phases, a prediction
 <br>
 The following training strategy summarizes the work completed in the <a href="https://github.com/UKeeeM/CS109-Project-/blob/master/Collection%20Factory.ipynb">**Collection Factory**</a>, the <a href="https://github.com/UKeeeM/CS109-Project-/blob/master/Feature%20Factory.ipynb">**Feature Factory**</a>, the <a href="https://github.com/UKeeeM/CS109-Project-/blob/master/EDA.ipynb">**Exploratory Data Analysis** </a> and the <a href="https://github.com/UKeeeM/CS109-Project-/blob/master/model.ipynb">**Model Factory** </a>.
 
-<div>
-  <h3>Traing Strategy</h3>
-  <img img width="664" alt="trainingstrat" src="../images/TrainingStrat.png">
-</div>
+<img src="../images/TrainingStrat.png">
 
 <br>
 <br>
