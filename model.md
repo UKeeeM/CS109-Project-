@@ -23,9 +23,7 @@ In our model, we attempted to first answer the question of whether we could pred
 
 <b>3.)</b>Classification: We classified the current comments into good or bad comment so that we may be able to predict whether a comment will be good or not. One of the more recommended approach was through the usages of the Naive Bayes Classifier.   It is a simple probabilistic classifiers that applys Bayes' theorem with a strong naive assumption that all the features are independent of each other. We fit the Tokenized sentences data using a TfidfVectorizer to offset certain words taht appear very frequently, which are not stopwords (such as people) from skewing the results
 
-<div>
 ![bay](https://cloud.githubusercontent.com/assets/5473875/11735412/f4f09092-9f8e-11e5-9ec1-f95c1dea7233.jpg)
-</div>
 
 <b>4.)</b> We fit the data and cross validated and checked to see our accruacy and calibration graph, as well as generate a list of words to use and avoid if one wnats to do well on reddit.
 
